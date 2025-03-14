@@ -1,0 +1,46 @@
+source_dataset,geography,subgeography,destination,inflow_count,confidence
+ACS Migration,California,State,Cannon County,55,Medium
+ACS Migration,California,State,Cheatham County,41,Medium
+ACS Migration,California,State,Davidson County,3127,Medium
+ACS Migration,California,State,Dickson County,45,Medium
+ACS Migration,California,State,Hickman County,129,Medium
+ACS Migration,California,State,Maury County,340,Medium
+ACS Migration,California,State,Robertson County,37,Medium
+ACS Migration,California,State,Rutherford County,504,Medium
+ACS Migration,California,State,Smith County,8,Medium
+ACS Migration,California,State,Sumner County,1168,Medium
+ACS Migration,California,State,Trousdale County,62,Medium
+ACS Migration,California,State,Williamson County,1818,Medium
+ACS Migration,California,State,Wilson County,561,Medium
+Nashville Migration,California,Bakersfield,Nashville Metro,27,High
+Nashville Migration,California,Fresno,Nashville Metro,112,High
+Nashville Migration,California,Los Angeles-Long Beach-Anaheim,Nashville Metro,2030,High
+Nashville Migration,California,Merced,Nashville Metro,0,High
+Nashville Migration,California,Modesto,Nashville Metro,77,High
+Nashville Migration,California,Oxnard-Thousand Oaks-Ventura,Nashville Metro,90,High
+Nashville Migration,California,Redding,Nashville Metro,0,High
+Nashville Migration,California,Riverside-San Bernardino-Ontario,Nashville Metro,592,High
+Nashville Migration,California,Sacramento-Roseville-Folsom,Nashville Metro,389,High
+Nashville Migration,California,Salinas,Nashville Metro,0,High
+Nashville Migration,California,San Diego-Chula Vista-Carlsbad,Nashville Metro,346,High
+Nashville Migration,California,San Francisco-Oakland-Berkeley,Nashville Metro,676,High
+Nashville Migration,California,San Jose-Sunnyvale-Santa Clara,Nashville Metro,318,High
+Nashville Migration,California,San Luis Obispo-Paso Robles,Nashville Metro,21,High
+Nashville Migration,California,Santa Maria-Santa Barbara,Nashville Metro,0,High
+Nashville Migration,California,Santa Rosa-Petaluma,Nashville Metro,69,High
+Nashville Migration,California,Vallejo,Nashville Metro,31,High
+Nashville Migration,California,Visalia,Nashville Metro,22,High
+Nashville Migration,California,Yuba City,Nashville Metro,17,High
+Updated Net,California,Bakersfield,Nashville,27,High
+Updated Net,California,Fresno,Nashville,112,High
+Updated Net,California,Los Angeles,Nashville,853,High
+Updated Net,California,Modesto,Nashville,76,High
+Updated Net,California,Oxnard,Nashville,71,High
+Updated Net,California,Riverside,Nashville,189,High
+Updated Net,California,Sacramento,Nashville,353,High
+Updated Net,California,San Diego,Nashville,241,High
+Updated Net,California,San Francisco,Nashville,411,High
+Updated Net,California,San Jose,Nashville,213,High
+Updated Net,California,Santa Rosa,Nashville,69,High
+Updated Net,California,Visalia,Nashville,22,High
+Updated Net,California,Yuba City,Nashville,17,High
